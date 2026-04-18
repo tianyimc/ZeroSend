@@ -1,6 +1,6 @@
 # ZeroSend
 
-极简、开源、端到端加密的阅后即焚文件分享服务，基于 Cloudflare Worker + KV + R2 (+ZeroTrust) 构建。
+极简、开源、端到端加密的阅后即焚文件分享服务，基于 Cloudflare Worker + KV (+ R2 +ZeroTrust) 构建。
 
 > 仓库地址：[github.com/tianyimc/ZeroSend](https://github.com/tianyimc/ZeroSend)  
 > 基于原始项目：[fzxx/Cloudflare-Worker-Secret-doc](https://github.com/fzxx/Cloudflare-Worker-Secret-doc)
