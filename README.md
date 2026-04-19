@@ -1,10 +1,11 @@
-# ZeroSend
+# ZeroSend on Cloudflare Workers
 
-极简、开源、端到端加密的阅后即焚文件分享服务，基于 Cloudflare Worker + KV (+ R2 +ZeroTrust) 构建。
+极简、开源、端到端加密的阅后即焚文件分享服务，基于 Cloudflare Workers + KV (+ R2 +ZeroTrust) 构建。
 
 > 仓库地址：[github.com/tianyimc/ZeroSend](https://github.com/tianyimc/ZeroSend)  
 > 基于原始项目：[fzxx/Cloudflare-Worker-Secret-doc](https://github.com/fzxx/Cloudflare-Worker-Secret-doc)
-
+我基于原始项目加了许多有用的功能，主要是对CF Zero Trust的适配，以及添加了管理面板、设置面板，这样可以保留曾经生成的记录（可删除），并且支持了文件的传输。详细的支持请见下文。
+注意：我其实很想做一个用FIDO2 Webauthn登录的功能，但由于CF Access的功能限制，我似乎没有找到可行的解决方案，如果你有，请提出来，万分感谢！！
 ---
 
 ## ✨ 功能列表
