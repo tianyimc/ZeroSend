@@ -7,6 +7,8 @@
 
 >我基于原始项目加了许多有用的功能，主要是对CF Zero Trust的适配，以及添加了管理面板、设置面板，这样可以保留曾经生成的记录（可删除），并且支持了文件的传输。详细的支持请见下文。
 >注意：我其实很想做一个用FIDO2 Webauthn登录的功能，但由于CF Access的功能限制，我似乎没有找到可行的解决方案，如果你有，请提出来，万分感谢！！
+教程可在[我的Blog](https://blog.tianyimc.com/2026/04/19/opensource-zerosend2_0_0/)查看，与README略有不同。
+可以在这里[查看](https://secret.tianyimc.com/s/ZA7WXSvraM2RrcxZ2T_64u4ujQyrQSCm7tem7HxrwCy-j2noxGwIBlmMGWbyDHwM5d62065YPYJKIhq1k42nfAf5f16bce#XRkcUFxcLxnszwjeyVo1y0cccHBEu+0hvygeLU3OsiE=)一个搭建完成的示例，密码请在[这里](https://blog.tianyimc.com/2026/04/19/opensource-zerosend2_0_0/#%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90)获取
 ---
 
 ## ✨ 功能列表
